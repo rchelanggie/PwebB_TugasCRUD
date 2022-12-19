@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  body {
+    padding: 28px 0px 28px 0px !important;
+    align-items: center;
+    background-color: #f5f5f5;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .container, .lihat-pendaftar {
+    width: 100%;
+    max-width: 1080px;
+    padding: 16px;
+    margin: 1.8rem auto;
+  }
+  
+  .swal2-container{
+    z-index: 100000;
+  }
+  
+  .swal2-popup{
+    z-index: 99995;
+  }
+  
+  .card {
+    padding: 16px;
+  }
